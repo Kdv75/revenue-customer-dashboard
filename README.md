@@ -1,6 +1,5 @@
 # Revenue & Customer Dashboard
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge)
@@ -12,48 +11,34 @@
 
 Every dashboard tells a story—but only if the data is prepared correctly.
 
-This Business Intelligence case study demonstrates how **541,909 raw transaction records** were transformed into an executive-ready Power BI dashboard focused on revenue analytics, customer segmentation, and business performance.
+This Business Intelligence case study demonstrates how **541,909 raw transaction records** were transformed into an Executive Business Intelligence dashboard focused on revenue analytics, customer segmentation, and business performance.
 
 ---
 
 ## 🚀 Project Highlights
 
 - Revenue & KPI tracking
-- Executive Power BI dashboard
+- Executive Business Intelligence dashboard
 - RFM customer segmentation
 - Sales trends analysis
 - Market performance analysis
-- Data modeling with Power BI and Python
+- Data modeling with Python
 
 ---
 
 ## 🛠 Tech Stack
 
-- Power BI
-- SQL
 - Python
-- DAX
-- Power Query
+- SQL
+- Business Intelligence
+- AI-assisted dashboard design
+- RFM Analysis
 
 - ## 📂 Repository Structure
 
 ```text
 images/
  └── dashboard.png
-
-powerbi/
- └── Revenue_Customer_Dashboard.pbix
-
-python/
- ├── cleaning.py
- └── rfm_analysis.py
-
-sql/
- ├── data_cleaning.sql
- └── business_queries.sql
-
-dataset/
- └── sample.csv
 
 docs/
  └── project-description.pdf
@@ -82,7 +67,6 @@ docs/
 - Executive Reporting
 - Customer Analytics
 - RFM Segmentation
-- Power BI
 - SQL
 - Python
 - DAX
