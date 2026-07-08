@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-00B294?style=for-the-badge)
 
 ![Dashboard](images/dashboard.png)
 
