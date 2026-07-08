@@ -41,7 +41,7 @@ images/
  └── dashboard.png
 
 docs/
- └── project-description.pdf
+ └── dashboard-design.md
 ```
 
 ---
@@ -69,8 +69,6 @@ docs/
 - RFM Segmentation
 - SQL
 - Python
-- DAX
-- Power Query
   
 ---
 
