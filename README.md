@@ -3,7 +3,36 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png) 
+
+## Project Objective
+
+Design an executive Business Intelligence dashboard that enables stakeholders to monitor revenue performance, identify high-value customer segments, and support data-driven business decisions.
+
+## Dataset
+
+Public Online Retail Dataset (UCI Machine Learning Repository)
+
+541,909 transaction records
+
+4,338 customers
+
+18,532 orders
+
+## Data Preparation
+
+• Removed cancelled orders
+
+• Removed returns
+
+• Removed missing customer IDs
+
+• Created RFM scores
+
+• Calculated KPIs
+
+• Prepared executive reporting dataset
+
 
 ## 📊 From 540K raw transaction rows to business-ready insights
 
@@ -26,11 +55,11 @@ This Business Intelligence case study demonstrates how **541,909 raw transaction
 
 ## 🛠 Tech Stack
 
-- Python
-- SQL
-- Business Intelligence
-- AI-assisted dashboard design
-- RFM Analysis
+Business Intelligence
+Python
+SQL
+RFM Analysis
+AI-assisted dashboard design
 
 - ## 📂 Repository Structure
 
@@ -38,8 +67,6 @@ This Business Intelligence case study demonstrates how **541,909 raw transaction
 images/
  └── dashboard.png
 
-docs/
- └── dashboard-design.md
 ```
 
 ---
@@ -76,6 +103,7 @@ The objective wasn't simply to visualize data—it was to enable faster, more co
 
 The dashboard helps decision-makers:
 
+- Quickly identify trends, customer segments, and revenue drivers
 - Monitor revenue performance
 - Identify high-value customers
 - Analyze purchasing behavior
@@ -85,11 +113,11 @@ The dashboard helps decision-makers:
 ## 📈 Key Business Insights
 
 - 22% of customers generated 65% of total revenue.
-- Germany accounted for the largest share of revenue.
+- Germany generated over 80% of total revenue, highlighting strong market concentration.
 - Champions represented the highest-value customer segment.
 - Repeat purchase rate reached 65.6%.
-- Revenue peaked during the September–November season.
- 
+- Revenue increased significantly during the September–November peak season.
+  
 ---
 
 ## 👤 Author
@@ -98,7 +126,7 @@ The dashboard helps decision-makers:
 
 Founder — DataAdvantage
 
-Power BI • SQL • Python • Business Intelligence
+ Business Intelligence • SQL • Python • Customer Analytics
 
 ---
 
