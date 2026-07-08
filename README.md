@@ -35,6 +35,30 @@ This Business Intelligence case study demonstrates how **541,909 raw transaction
 - DAX
 - Power Query
 
+- ## 📂 Repository Structure
+
+```text
+images/
+ └── dashboard.png
+
+powerbi/
+ └── Revenue_Customer_Dashboard.pbix
+
+python/
+ ├── cleaning.py
+ └── rfm_analysis.py
+
+sql/
+ ├── data_cleaning.sql
+ └── business_queries.sql
+
+dataset/
+ └── sample.csv
+
+docs/
+ └── project-description.pdf
+```
+
 ---
 
 ## 📈 Dashboard KPIs
@@ -47,6 +71,23 @@ This Business Intelligence case study demonstrates how **541,909 raw transaction
 | Average Order Value | €480.87 |
 | Repeat Purchase Rate | 65.6% |
 
+## 💡 Skills Demonstrated
+
+- Business Intelligence
+- Data Cleaning
+- ETL
+- Data Modeling
+- Dashboard Development
+- KPI Design
+- Executive Reporting
+- Customer Analytics
+- RFM Segmentation
+- Power BI
+- SQL
+- Python
+- DAX
+- Power Query
+  
 ---
 
 ## 🎯 Business Impact
@@ -61,6 +102,14 @@ The dashboard helps decision-makers:
 - Compare market performance
 - Track top-selling products
 
+## 📈 Key Business Insights
+
+- 22% of customers generated 65% of total revenue.
+- Germany accounted for the largest share of revenue.
+- Champions represented the highest-value customer segment.
+- Repeat purchase rate reached 65.6%.
+- Revenue peaked during the September–November season.
+ 
 ---
 
 ## 👤 Author
@@ -76,3 +125,11 @@ Power BI • SQL • Python • Business Intelligence
 ## 🌐 Website
 
 https://dataadvantage.io
+
+## 🔗 Connect
+
+GitHub:
+https://github.com/Kdv75
+
+LinkedIn:
+https://www.linkedin.com/in/dmytro--kalinin
