@@ -5,11 +5,11 @@
 
 ![Dashboard](images/dashboard.png) 
 
-## Project Objective
+## 🎯 Project Objective
 
 Design an executive Business Intelligence dashboard that enables stakeholders to monitor revenue performance, identify high-value customer segments, and support data-driven business decisions.
 
-## Dataset
+## 🗂️ Dataset
 
 Public Online Retail Dataset (UCI Machine Learning Repository)
 
@@ -19,7 +19,7 @@ Public Online Retail Dataset (UCI Machine Learning Repository)
 
 18,532 orders
 
-## Data Preparation
+## 🧹 Data Preparation
 
 • Removed cancelled orders
 
@@ -61,7 +61,7 @@ SQL
 RFM Analysis
 AI-assisted dashboard design
 
-- ## 📂 Repository Structure
+## 📁 Repository Structure
 
 ```text
 images/
@@ -97,7 +97,7 @@ images/
   
 ---
 
-## 🎯 Business Impact
+## 💼 Business Impact
 
 The objective wasn't simply to visualize data—it was to enable faster, more confident business decisions.
 
